@@ -13,4 +13,4 @@ this game developed with Unity and C#
 will be upgrade (Blender can be used for environment and section design and also 3D/2D Character Model Design)
 
 in this Lecture I learned OpenGL and DirectX , Blender for Design and  little Unity (some animations vs.)
-while I develop this project Unity and C# I learned some specific information and I curious about Game Development with Unity.
+while I develop this project Unity and C# I learned some specific information and Lots of math and analytical geometry
